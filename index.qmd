@@ -1,7 +1,9 @@
 ---
-title: "Ashlyn Johnson"
+title: ""
 ---
 
-Welcome to my blog!
+Welcome to my data brainstorm!
 
-I'm currently a Neuroscience PhD Candidate at Emory University. After graduation, I'm interested in transitioning to a data analytics/science field. Hoping to use this blog to showcase my skills and as an outlet to talk about projects that I'm interested in.
+Here you'll find a collection of my interactions with data analysis and data science.
+
+Connect with me!

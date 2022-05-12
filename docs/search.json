@@ -2,15 +2,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "By day, I study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\nBy night, I’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are the data analysis and visualization with R. I am happiest when I get to tinker with code in order to make the perfect graph. Thus, I’ve decided to broaden my data skill set by continuing to advance in R as well as to learn SQL and python.\nAfter graduation, I hope to leverage both my scientific background and my data-related skills as a data professional. Earning a PhD comes with a unique set of skills that involve learning how to ask good questions, designing experiments or processes to answer those questions, and learning how to think critically about results and their impact on the field. These skills can be applied to any industry and will help me to excel in data-related tasks and goals.\n\nEducation\nB.S. Biological Sciences, North Carolina State University, 2017\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\nPh.D. Neuroscience, Emory University, In Progress\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ashlyn Johnson",
+    "title": "Ashlyn's Data Brainstorm",
     "section": "",
-    "text": "I’m currently a Neuroscience PhD Candidate at Emory University. After graduation, I’m interested in transitioning to a data analytics/science field. Hoping to use this blog to showcase my skills and as an outlet to talk about projects that I’m interested in."
+    "text": "Here you’ll find a collection of my interactions with data analysis and data science.\nConnect with me!"
   }
 ]
