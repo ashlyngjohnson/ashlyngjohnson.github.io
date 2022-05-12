@@ -12,7 +12,7 @@ After graduation, I hope to leverage both my scientific background and my data-r
 
 #### Education
 
-**B.S. Biological Sciences**, North Carolina State University, 2017
+**B.S. Biological Sciences, North Carolina State University, 2017**
 
 -   Concentration: Integrative Physiology and Neurobiology
 
@@ -23,3 +23,7 @@ After graduation, I hope to leverage both my scientific background and my data-r
 -   Adviser: Dr. Chad Hales MD, PhD
 
 -   [Publications](https://scholar.google.com/citations?user=p6HJwcMAAAAJ&hl=en)
+
+**Certificates**
+
+-   Google Data Analytics Certificate (4/8 courses completed)

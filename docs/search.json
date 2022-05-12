@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "By day, I study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\nBy night, I’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are the data analysis and visualization with R. I am happiest when I get to tinker with code in order to make the perfect graph. Thus, I’ve decided to broaden my data skill set by continuing to advance in R as well as to learn SQL and python.\nAfter graduation, I hope to leverage both my scientific background and my data-related skills as a data professional. Earning a PhD comes with a unique set of skills that involve learning how to ask good questions, designing experiments or processes to answer those questions, and learning how to think critically about results and their impact on the field. These skills can be applied to any industry and will help me to excel in data-related tasks and goals.\n\nEducation\nB.S. Biological Sciences, North Carolina State University, 2017\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\nPh.D. Neuroscience, Emory University, In Progress\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications"
+    "text": "By day, I study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\nBy night, I’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are the data analysis and visualization with R. I am happiest when I get to tinker with code in order to make the perfect graph. Thus, I’ve decided to broaden my data skill set by continuing to advance in R as well as to learn SQL and python.\nAfter graduation, I hope to leverage both my scientific background and my data-related skills as a data professional. Earning a PhD comes with a unique set of skills that involve learning how to ask good questions, designing experiments or processes to answer those questions, and learning how to think critically about results and their impact on the field. These skills can be applied to any industry and will help me to excel in data-related tasks and goals.\n\nEducation\nB.S. Biological Sciences, North Carolina State University, 2017\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\nPh.D. Neuroscience, Emory University, In Progress\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications\n\nCertificates\n\nGoogle Data Analytics Certificate (4/8 courses completed)"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -12,5 +19,19 @@
     "title": "Ashlyn's Data Brainstorm",
     "section": "",
     "text": "Here you’ll find a collection of my interactions with data analysis and data science.\nConnect with me!"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
