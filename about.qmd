@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+## Ashlyn Johnson
 
-```{r}
-1 + 1
-```
+### Aspiring Data Professional
+
+####B.S. Biological Sciences\
+Concentration: Integrative Physiology and Neurobiology\
+Minors: Cognitive Science and Biotechnology\
+**North Carolina State University, 2017**
+
+####Ph.D. Neuroscience\
+**Emory University, In Progress**
