@@ -1,9 +1,24 @@
 ---
-title: ""
+title: "Ashlyn Johnson"
+image: profile_2.jpg
+about: 
+  id: hero-heading
+  template: jolla
+  
 ---
+>
+<p style="color: #800000">
+***wetware*** - the human brain\
+***software*** - programs for a computer\
+***data*** - factual information used as a basis for reasoning, discussion, or calculation\
+</p>
 
-Welcome to my data brainstorm!
+:::{#hero-heading}
 
-Here you'll find a collection of my interactions with data analysis and data science.
+I'm a neuroscientist turned data enthusiast.
 
-Connect with me!
+Here you'll find a collection of my interactions with wetware, software, and data.
+
+Connect with me! 
+:::
+

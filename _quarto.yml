@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ashlyn's Data Brainstorm"
+  title: "wetware//software//data"
   navbar:
     background: primary
     left:

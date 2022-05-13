@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Ashlyn Johnson",
     "section": "",
-    "text": "By day, I study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\nBy night, I’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are the data analysis and visualization with R. I am happiest when I get to tinker with code in order to make the perfect graph. Thus, I’ve decided to broaden my data skill set by continuing to advance in R as well as to learn SQL and python.\nAfter graduation, I hope to leverage both my scientific background and my data-related skills as a data professional. Earning a PhD comes with a unique set of skills that involve learning how to ask good questions, designing experiments or processes to answer those questions, and learning how to think critically about results and their impact on the field. These skills can be applied to any industry and will help me to excel in data-related tasks and goals.\n\nEducation\nB.S. Biological Sciences, North Carolina State University, 2017\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\nPh.D. Neuroscience, Emory University, In Progress\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications\n\nCertificates\n\nGoogle Data Analytics Certificate (4/8 courses completed)"
+    "text": "B.S. Biological Sciences, North Carolina State University, 2017\n\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\n\nPh.D. Neuroscience, Emory University, In Progress\n\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications\n\n\nCertificates\n\n\nGoogle Data Analytics Certificate (4/8 courses completed)\n\n\n\nBy day,\n\nI study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\n\nBy night,\n\nI’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are data analysis and visualization with R. I am happiest when I get to tinker with code o make the perfect graph. Thus, I’m broadening my skill set by advancing in R as well as learning SQL and python.\nEarning a PhD comes with a unique set of skills including how to ask good questions, design experiments to answer those questions, and to think critically about results and their impact on the field.\n\nAfter graduation, I will leverage my scientific background and my data toolbox to solve problems and generate insights as a data professional."
   },
   {
     "objectID": "blog.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ashlyn's Data Brainstorm",
+    "title": "Ashlyn Johnson",
     "section": "",
-    "text": "Here you’ll find a collection of my interactions with data analysis and data science.\nConnect with me!"
+    "text": "I’m a neuroscientist turned data enthusiast.\nHere you’ll find a collection of my interactions with wetware, software, and data.\nConnect with me!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
