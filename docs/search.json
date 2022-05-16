@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "R\n\n\n\n\n\n\n\n\n\n\n\nApr 21, 2021\n\n\nAshlyn Johnson\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,17 +21,17 @@
     "text": "I’m a neuroscientist turned data enthusiast.\nHere you’ll find a collection of my interactions with wetware, software, and data.\nConnect with me!"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/ggBernie-competition-entry/index.html",
+    "href": "posts/ggBernie-competition-entry/index.html",
+    "title": "ggBernie Competition Entry",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "library(tidyverse)\nlibrary(tidytuesdayR)\nlibrary(ggbernie)\nlibrary(gganimate)\nlibrary(ggthemes)\nlibrary(ggdark)\n\n\nGetting the data\nI will be using data from the Urban Institute and the US Census curated by the Tidy Tuesday project\nThis dataset includes data regarding racial wealth inequality in the United States. within this dataset is data on average family student loan debt for aged 25-55, by race and year (normalized to 2016 dollars). I know a major part of Bernie’s platform is eliminating the cost of higher education so I figured that this dataset is particularly fitting for this challenge.\nBelow I am using the tidytuesdayR package to download the relevant data.\n\nwealthinequality <- tidytuesdayR::tt_load(2021, week = 7)\n\n\n    Downloading file 1 of 11: `home_owner.csv`\n    Downloading file 2 of 11: `income_aggregate.csv`\n    Downloading file 3 of 11: `income_distribution.csv`\n    Downloading file 4 of 11: `income_limits.csv`\n    Downloading file 5 of 11: `income_mean.csv`\n    Downloading file 6 of 11: `income_time.csv`\n    Downloading file 7 of 11: `lifetime_earn.csv`\n    Downloading file 8 of 11: `lifetime_wealth.csv`\n    Downloading file 9 of 11: `race_wealth.csv`\n    Downloading file 10 of 11: `retirement.csv`\n    Downloading file 11 of 11: `student_debt.csv`\n\nstudent_debt <- wealthinequality$student_debt %>% \n  mutate(race = factor(race, \n                       levels = c(\"White\",\n                                  \"Hispanic\",\n                                  \"Black\")))\n\n\n\nMaking the graph\n\nplot <- ggplot(student_debt, \n               aes(x = year, \n                   y = loan_debt_pct * 100)) +\n  geom_line(data = student_debt %>%\n              filter(race == \"White\"),\n            aes(x = year, \n                y = loan_debt_pct * 100),\n            color = \"yellow\",\n            size = 1.5) +\n  geom_bernie(data = student_debt %>% \n                filter(race == \"White\"),\n              aes(x = year, \n                  y = loan_debt_pct * 100),\n              bernie = \"head\") +\n  geom_label(data = student_debt %>% \n               filter(race == \"White\"),\n             aes(x = year, \n                 y = loan_debt_pct * 100, \n                 label = race),\n             nudge_y = -2.5) +\n  geom_line(data = student_debt %>% \n              filter(race == \"Hispanic\"),\n            aes(x = year, \n                y = loan_debt_pct * 100),\n            color = \"cyan\",\n            size = 1.5) + \n  geom_bernie(data = student_debt %>% \n                filter(race == \"Hispanic\"),\n              aes(x = year, \n                  y = loan_debt_pct * 100),\n              bernie = \"stand\") + \n  geom_label(data = student_debt %>% \n               filter(race == \"Hispanic\"),\n             aes(x = year, \n                 y = loan_debt_pct * 100, \n                 label = race), \n             nudge_y = -3.5) +\n  geom_line(data = student_debt %>%  \n              filter(race == \"Black\"),\n            aes(x = year, \n                y = loan_debt_pct * 100),\n            color = \"limegreen\", \n            size = 1.5) +\n  geom_bernie(data = student_debt %>% \n                filter(race == \"Black\"),\n              aes(x = year, \n                  y = loan_debt_pct * 100),\n              bernie = \"sitting\") + \n  geom_label(data = student_debt %>% \n               filter(race == \"Black\"), \n             aes(x = year, \n                 y = loan_debt_pct * 100, \n                 label = race), \n             nudge_y = -2.5) +\n  scale_x_continuous(limits = c(1989, 2016),\n                     breaks = seq(1989, 2016, by = 3)) +\n  scale_y_continuous(limits = c(0, 50)) +\n  labs(title = \"Black families are disproportionately burdened by student loan debt.\",\n       subtitle = expression(paste(italic(\"We need a revolution in the way higher education is funded.\"),\n      \" -Bernie Sanders\")),\n      x = \"Year of Measure\",\n      y = \"Percentage of Families with Student Loan Debt\",\n      caption = \"Source: Urban Institute, US Census, and Tidy Tuesday (2021, Week 7) \\n Viz: @ashgjoh\") +\n  dark_theme_minimal() +\n  transition_reveal(along = year, keep_last = FALSE)\n\nInverted geom defaults of fill and color/colour.\nTo change them back, use invert_geom_defaults().\n\n\nAfter all of this code, we can actually see the animated plot with the following code:\n\nanimate(plot)\n\n\n\n\n\n\nInterpretation\nBeginning in the late 1990s, the share of Black families with student loan debt began to rise at a faster rate relative to White and Hispanic families. Further analysis should be used to determine whether this increase in student debt coincides with tuition increase. Additionally, further analysis should be used to determine how this increase in student debt correlates with college attendance rates."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "tt_blog.html",
+    "href": "tt_blog.html",
+    "title": "Tidy Tuesday",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "No matching items"
   }
 ]
