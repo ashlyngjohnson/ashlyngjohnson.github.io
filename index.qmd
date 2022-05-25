@@ -4,21 +4,18 @@ image: profile_2.jpg
 about: 
   id: hero-heading
   template: jolla
-  
 ---
->
-<p style="color: #800000">
-***wetware*** - the human brain\
-***software*** - programs for a computer\
-***data*** - factual information used as a basis for reasoning, discussion, or calculation\
-</p>
 
-:::{#hero-heading}
+> <p style="color: #FF3131">
+> ***wetware*** - the human brain\
+> ***software*** - programs for a computer\
+> ***data*** - factual information used as a basis for reasoning, discussion, or calculation\
+></p>
 
+::: {#hero-heading}
 I'm a neuroscientist turned data enthusiast.
 
 Here you'll find a collection of my interactions with wetware, software, and data.
 
-Connect with me! 
+Connect with me!
 :::
-
