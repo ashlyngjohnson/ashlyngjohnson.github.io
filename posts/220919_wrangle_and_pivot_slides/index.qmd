@@ -2,8 +2,11 @@
 title: "Teaching `dplyr` to graduate students"
 author: "Ashlyn Johnson"
 date: "2022-09-19"
-categories: [R]
-image: ""
+categories:
+  - R
+  - Teaching
+  - dplyr
+image: "wrangle_slide_image.png"
 ---
 
 This fall, I am a teaching assistant for **IBS 519: Introduction to Data Analysis** at Emory University. The class is comprised of mostly first year graduate students, many of whom are just getting their feet wet with R programming.
@@ -14,6 +17,14 @@ I created the slides for this review session with R markdown and the `xaringan`,
 
 My slides are below!
 
-```{=html}
-<iframe width="780" height="500" src="wrangle_pivot_TAsession.html" title="Wrangling and Pivoting Data"></iframe>
+```{r, echo = FALSE}
+library(xaringanExtra)
+embed_xaringan(
+  url = "wrangle_pivot_TAsession.html",
+  ratio = "16:9",
+  border = "2px solid currentColor",
+  max_width = NULL,
+  margin = "1em auto",
+  style = NULL
+)
 ```
