@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cyborg
+    theme: solar
     css: styles.css
     toc: true
 
