@@ -1,0 +1,18 @@
+{
+  "hash": "6a0cdec7abfc7b5722a132a2e91bb53d",
+  "result": {
+    "markdown": "---\ntitle: \"Introducing data management and version control in R to graduate students\"\nauthor: \"Ashlyn Johnson\"\ndate: \"2022-10-17\"\ncategories:\n  - R\n  - Teaching\n  - github\n  - projects\n  - reproducibility\nimage: \"rlocal_projects_image.png\"\n---\n\n\nRecently, I gave a short presentation to students in **IBS 519: Introduction to Data Analysis** at Emory University. Many of these students are first year graduate students and most are just starting to learn R programming. The class primarily uses R Studio Cloud to distribute assignments and manage the computing environment - which has worked well for the classroom. However, once the class ends, the students will only have access to the free tier of R Studio Cloud - which isn't sufficient for students who join primarily computational laboratories.\n\nThus, the other teaching assistants and I decided to briefly introduce the concept of installing R and R studio locally. We also thought about important data management principles that early graduate students should be aware of and decided to highlight R projects, file management, and version control. This slide deck is meant to be a high level overview of these concepts with some links to resources that are helpful for further study.\n\nI created the slides for this presentation with R markdown and the `xaringan`, `xaringanthemer`, and `xaringanExtra` packages.\n\nMy slides are below!\n\n\n::: {.cell}\n::: {.cell-output-display}\n```{=html}\n<div class=\"shareagain\" style=\"min-width:300px;margin:1em auto;\" data-exeternal=\"1\">\n<iframe src=\"rlocal_projects_slides.html\" width=\"1600\" height=\"900\" style=\"border:2px solid currentColor;\" loading=\"lazy\" allowfullscreen></iframe>\n<script>fitvids('.shareagain', {players: 'iframe'});</script>\n</div>\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"..\\..\\site_libs/fitvids-2.1.1/fitvids.min.js\"></script>\r\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

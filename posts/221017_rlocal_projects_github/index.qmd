@@ -1,0 +1,32 @@
+---
+title: "Introducing data management and version control in R to graduate students"
+author: "Ashlyn Johnson"
+date: "2022-10-17"
+categories:
+  - R
+  - Teaching
+  - github
+  - projects
+  - reproducibility
+image: "rlocal_projects_image.png"
+---
+
+Recently, I gave a short presentation to students in **IBS 519: Introduction to Data Analysis** at Emory University. Many of these students are first year graduate students and most are just starting to learn R programming. The class primarily uses R Studio Cloud to distribute assignments and manage the computing environment - which has worked well for the classroom. However, once the class ends, the students will only have access to the free tier of R Studio Cloud - which isn't sufficient for students who join primarily computational laboratories.
+
+Thus, the other teaching assistants and I decided to briefly introduce the concept of installing R and R studio locally. We also thought about important data management principles that early graduate students should be aware of and decided to highlight R projects, file management, and version control. This slide deck is meant to be a high level overview of these concepts with some links to resources that are helpful for further study.
+
+I created the slides for this presentation with R markdown and the `xaringan`, `xaringanthemer`, and `xaringanExtra` packages.
+
+My slides are below!
+
+```{r, echo = FALSE}
+library(xaringanExtra)
+embed_xaringan(
+  url = "rlocal_projects_slides.html",
+  ratio = "16:9",
+  border = "2px solid currentColor",
+  max_width = NULL,
+  margin = "1em auto",
+  style = NULL
+)
+```

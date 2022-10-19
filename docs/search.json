@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "R\n\n\nTeaching\n\n\ndplyr\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nApr 21, 2021\n\n\nAshlyn Johnson\n\n\n\n\n\n\nNo matching items"
+    "text": "R\n\n\nTeaching\n\n\ngithub\n\n\nprojects\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\nTeaching\n\n\ndplyr\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nApr 21, 2021\n\n\nAshlyn Johnson\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -40,5 +40,12 @@
     "title": "Tidy Tuesday",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "posts/221017_rlocal_projects_github/index.html",
+    "href": "posts/221017_rlocal_projects_github/index.html",
+    "title": "Introducing data management and version control in R to graduate students",
+    "section": "",
+    "text": "Thus, the other teaching assistants and I decided to briefly introduce the concept of installing R and R studio locally. We also thought about important data management principles that early graduate students should be aware of and decided to highlight R projects, file management, and version control. This slide deck is meant to be a high level overview of these concepts with some links to resources that are helpful for further study.\nI created the slides for this presentation with R markdown and the xaringan, xaringanthemer, and xaringanExtra packages.\nMy slides are below!"
   }
 ]
