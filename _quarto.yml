@@ -20,7 +20,7 @@ website:
 format:
   html:
     theme: solar
-    css: styles.css
+    css: ["styles.css", "agj_theme.css"]
     toc: true
 
 editor: visual

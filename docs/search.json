@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Ashlyn Johnson",
     "section": "",
-    "text": "B.S. Biological Sciences, North Carolina State University, 2017\n\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\n\nPh.D. Neuroscience, Emory University, In Progress\n\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications\n\n\nCertificates\n\n\nGoogle Data Analytics Certificate (7/8 courses completed)\n\n\n\nBy day,\n\nI study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\n\nBy night,\n\nI’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are data analysis and visualization with R. I am happiest when I get to tinker with code to make the perfect graph. Thus, I’m broadening my skill set by advancing in R as well as learning SQL and python.\nEarning a PhD comes with a unique set of skills including how to ask good questions, design experiments to answer those questions, and to think critically about results and their impact on the field.\n\nAfter graduation, I will leverage my scientific background and my data toolbox to solve problems and generate insights as a data professional."
+    "text": "B.S. Biological Sciences, North Carolina State University, 2017\n\n\nConcentration: Integrative Physiology and Neurobiology\nMinors: Cognitive Science and Biotechnology\n\n\nPh.D. Neuroscience, Emory University, In Progress\n\n\nAdviser: Dr. Chad Hales MD, PhD\nPublications\n\n\nCertificates\n\n\n\n\n\n\n\n\nBy day,\n\nI study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I’ve discovered a passion for data visualization and R programming.\n\nBy night,\n\nI’m bolstering my data skills. My time in graduate school has taught me that the parts of research that I enjoy most are data analysis and visualization with R. I am happiest when I get to tinker with code to make the perfect graph. Thus, I’m broadening my skill set by advancing in R as well as learning SQL and python.\nEarning a PhD comes with a unique set of skills including how to ask good questions, design experiments to answer those questions, and to think critically about results and their impact on the field.\n\nAfter graduation, I will leverage my scientific background and my data toolbox to solve problems and generate insights as a data professional."
   },
   {
     "objectID": "blog.html",
@@ -28,6 +28,13 @@
     "text": "I was tasked with reviewing some of the basic dplyr functions as well as briefly introducing the students to the concept of tidy data and the pivot_longer() function.\nI created the slides for this review session with R markdown and the xaringan, xaringanthemer, xaringanExtra, and DT packages. I used a Tidy Tuesday dataset from the American Kennel Club about dog breeds and their associated traits. The ordinal data made it easier for students to filter the dataset based on different traits to identify their ‘ideal dog’.\nMy slides are below!"
   },
   {
+    "objectID": "posts/221017_rlocal_projects_github/index.html",
+    "href": "posts/221017_rlocal_projects_github/index.html",
+    "title": "Introducing data management and version control in R to graduate students",
+    "section": "",
+    "text": "Thus, the other teaching assistants and I decided to briefly introduce the concept of installing R and R studio locally. We also thought about important data management principles that early graduate students should be aware of and decided to highlight R projects, file management, and version control. This slide deck is meant to be a high level overview of these concepts with some links to resources that are helpful for further study.\nI created the slides for this presentation with R markdown and the xaringan, xaringanthemer, and xaringanExtra packages.\nMy slides are below!"
+  },
+  {
     "objectID": "posts/ggBernie-competition-entry/index.html",
     "href": "posts/ggBernie-competition-entry/index.html",
     "title": "ggBernie Competition Entry",
@@ -40,12 +47,5 @@
     "title": "Tidy Tuesday",
     "section": "",
     "text": "No matching items"
-  },
-  {
-    "objectID": "posts/221017_rlocal_projects_github/index.html",
-    "href": "posts/221017_rlocal_projects_github/index.html",
-    "title": "Introducing data management and version control in R to graduate students",
-    "section": "",
-    "text": "Thus, the other teaching assistants and I decided to briefly introduce the concept of installing R and R studio locally. We also thought about important data management principles that early graduate students should be aware of and decided to highlight R projects, file management, and version control. This slide deck is meant to be a high level overview of these concepts with some links to resources that are helpful for further study.\nI created the slides for this presentation with R markdown and the xaringan, xaringanthemer, and xaringanExtra packages.\nMy slides are below!"
   }
 ]

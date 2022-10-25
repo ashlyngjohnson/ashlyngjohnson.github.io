@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$theme-red: #DC322F;
+$theme-cyan: #2AA198;
+
+
+/*-- scss:rules --*/
+
+.red {
+  color: $theme-red;
+  font-weight: bold;
+}
+
+.cyan {
+  color: $theme-cyan;
+  font-weight: bold;
+}

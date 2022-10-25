@@ -13,9 +13,8 @@ about:
       href: https://github.com/ashlyngjohnson
 ---
 
-#### Education
-
-<p style="color: #dc322f">
+### Education
+<p style="color:#DC322F;">
 **B.S. Biological Sciences, North Carolina State University, 2017**
 </p>
 
@@ -23,7 +22,7 @@ about:
 
 -   Minors: Cognitive Science and Biotechnology
 
-<p style="color: #dc322f">
+<p style="color:#DC322F;">
 **Ph.D. Neuroscience, Emory University, In Progress**
 </p>
 
@@ -31,21 +30,21 @@ about:
 
 -   [Publications](https://scholar.google.com/citations?user=p6HJwcMAAAAJ&hl=en)
 
-<p style="color: #dc322f">
+<p style="color:#DC322F;">
 **Certificates**
 </p>
 
--   Google Data Analytics Certificate (7/8 courses completed)
+[![](google-data-analytics-certificate.2.png){width="300"}](https://www.credly.com/badges/13720e94-c789-4487-8b9e-035f205db80a/public_url)
 
 ------------------------------------------------------------------------
 
-<p style="color: #dc322f">
+<p style="color:#DC322F;">
 **By day,**
 </p>
 
 I study the role of astrocytes in frontotemporal dementia associated with tau pathology - with a particular interest in the astrocyte endfoot. I combine classical biochemical techniques with proteomic and transcriptomic approaches to dissect the impact of mutant tau on the gliovascular unit. Through this project, I've discovered a passion for data visualization and R programming.
 
-<p style="color: #dc322f">
+<p style="color:#DC322F;">
 **By night,**
 </p>
 
@@ -53,6 +52,6 @@ I'm bolstering my data skills. My time in graduate school has taught me that the
 
 Earning a PhD comes with a unique set of skills including how to *ask good questions*, *design experiments* to answer those questions, and to *think critically* about results and their impact on the field.
 
-<p style="color: #2aa198">
-After graduation, I will leverage my scientific background and my data toolbox to solve problems and generate insights as a data professional.
+<p style="color:#2AA198;">
+**After graduation, I will leverage my scientific background and my data toolbox to solve problems and generate insights as a data professional.**
 </p>
