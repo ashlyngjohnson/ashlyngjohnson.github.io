@@ -3,49 +3,44 @@ title: "Publications"
 page-layout: full
 title-block-banner: true
 ---
-<span style="color:#9954BB;">*First Author*</span>     
-<span style="color:#9954BB;">Co-Author</span>
+
+[***First Author***]{style="color:#9954BB;"}\
+[Co-Author]{style="color:#9954BB;"}
 
 <h1 style="color:#DC322F;">
+
 ### Graduate Research
-</h1>
-[Glial profiling of human tauopathy brain demonstrates enrichment of astrocytic transcripts in tau-related frontotemporal degeneration](https://pubmed.ncbi.nlm.nih.gov/35051675/)    
-**Authors**: <span style="color:#9954BB;">*Ashlyn G. Johnson*</span>, James A. Webster, Chadwick M. Hales 
-<p style="color:#B58900;">
-2022, _Neurobiology of Aging_    
-</p>
 
-[A proteomic network approach resolves stage-specific molecular phenotypes in chronic traumatic encephalopathy](https://pubmed.ncbi.nlm.nih.gov/34172091/)    
-**Authors**: Laura Gutierrez-Quiceno, Eric B. Dammer, <span style="color:#9954BB;">Ashlyn Grace Johnson</span>, James A. Webster, Rhythm Shah, Duc Duong, Luming Yin, Nicholas T. Seyfried, Victor E. Alvarez, Thor D. Stein, Ann C. McKee, Chadwick M. Hales 
-<p style="color:#B58900;">
-2021, _Molecular Neurodegeneration_
-</p>
+</h1>
+
+[Glial profiling of human tauopathy brain demonstrates enrichment of astrocytic transcripts in tau-related frontotemporal degeneration](https://pubmed.ncbi.nlm.nih.gov/35051675/)\    
+[***Ashlyn G. Johnson***]{style="color:#9954BB;"}, James A. Webster, Chadwick M. Hales\        
+[2022, *Neurobiology of Aging*]{style="color:#B58900;"}
+
+
+[A proteomic network approach resolves stage-specific molecular phenotypes in chronic traumatic encephalopathy](https://pubmed.ncbi.nlm.nih.gov/34172091/)\    
+Laura Gutierrez-Quiceno, Eric B. Dammer, [Ashlyn Grace Johnson]{style="color:#9954BB;"}, James A. Webster, Rhythm Shah, Duc Duong, Luming Yin, Nicholas T. Seyfried, Victor E. Alvarez, Thor D. Stein, Ann C. McKee, Chadwick M. Hales\      
+[2021, *Molecular Neurodegeneration*]{style="color:#B58900;"}
 
 <h1 style="color:#DC322F;">
+
 ### Undergraduate Research
+
 </h1>
-[Estrogen receptor alpha, G-protein coupled estrogen receptor 1, and aromatase: Developmental, sex, and region-specific differences across the rat caudate-putamen, nucleus accumbens core and shell](https://pubmed.ncbi.nlm.nih.gov/32632943/)    
-**Authors**: Amanda A. Krentzel, Jaime A. Willett, <span style="color:#9954BB;">Ashlyn G. Johnson</span>, John Meitzen    
-<p style="color:#B58900;">
-2021, _Journal of Comparative Neurology_
-</p>
 
-[The estrous cycle modulates rat caudate-putamen medium spiny neuron physiology](https://pubmed.ncbi.nlm.nih.gov/31278786/)    
-**Authors**: Jaime A. Willett, Jinyan Cao, <span style="color:#9954BB;">Ashlyn Johnson</span>, Opal H. Patel, David M. Dorris, John Meitzen  
-<p style="color:#B58900;">
-2020, _European Journal of Neuroscience_
-</p>
+[Estrogen receptor alpha, G-protein coupled estrogen receptor 1, and aromatase: Developmental, sex, and region-specific differences across the rat caudate-putamen, nucleus accumbens core and shell](https://pubmed.ncbi.nlm.nih.gov/32632943/)\    
+Amanda A. Krentzel, Jaime A. Willett, [Ashlyn G. Johnson]{style="color:#9954BB;"}, John Meitzen\    
+[2021, *Journal of Comparative Neurology*]{style="color:#B58900;"}
 
 
-[Electrophysiological Properties of Medium Spiny Neuron Subtypes in the Caudate-Putamen of Prepubertal Male and Female Drd1a-tdTomato Line 6 BAC Transgenic Mice](https://pubmed.ncbi.nlm.nih.gov/30899778/)    
-**Authors**: Jaime A. Willett, Jinyan Cao, David M. Dorris, <span style="color:#9954BB;">Ashlyn G. Johnson</span>, Laura A. Ginnari, John Meitzen  
-<p style="color:#B58900;">
-2019, _eNeuro_
-</p>
+[The estrous cycle modulates rat caudate-putamen medium spiny neuron physiology](https://pubmed.ncbi.nlm.nih.gov/31278786/)\
+Jaime A. Willett, Jinyan Cao, [Ashlyn Johnson]{style="color:#9954BB;"}, Opal H. Patel, David M. Dorris, John Meitzen\    
+[2020, *European Journal of Neuroscience*]{style="color:#B58900;"}
 
-[**Nucleus accumbens core medium spiny neuron electrophysiological properties and partner preference behavior in the adult male prairie vole, Microtus ochrogaster**](https://pubmed.ncbi.nlm.nih.gov/29361665/)    
-**Authors**: Jaime A. Willett, <span style="color:#9954BB;">Ashlyn G. Johnson</span>, Andrea R. Vogel, Heather B. Patisaul, Lisa A. McGraw, John Meitzen  
-<p style="color:#B58900;">
-2018, _Journal of Neurophysiology_
-</p>
+[Electrophysiological Properties of Medium Spiny Neuron Subtypes in the Caudate-Putamen of Prepubertal Male and Female Drd1a-tdTomato Line 6 BAC Transgenic Mice](https://pubmed.ncbi.nlm.nih.gov/30899778/)\
+Jaime A. Willett, Jinyan Cao, David M. Dorris, [Ashlyn G. Johnson]{style="color:#9954BB;"}, Laura A. Ginnari, John Meitzen\    
+[2019, *eNeuro*]{style="color:#B58900;"}
 
+[**Nucleus accumbens core medium spiny neuron electrophysiological properties and partner preference behavior in the adult male prairie vole, Microtus ochrogaster**](https://pubmed.ncbi.nlm.nih.gov/29361665/)\
+Jaime A. Willett, [Ashlyn G. Johnson]{style="color:#9954BB;"}, Andrea R. Vogel, Heather B. Patisaul, Lisa A. McGraw, John Meitzen\    
+[2018, *Journal of Neurophysiology*]{style="color:#B58900;"}
