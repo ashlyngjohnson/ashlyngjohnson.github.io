@@ -6,13 +6,9 @@ about:
   template: jolla
 ---
 
- 
-><p style="color: #FF3131">
-> ***wetware*** - the human brain\
-> ***software*** - programs for a computer\
-> ***data*** - factual information used as a basis for reasoning, discussion, or calculation\
-></p>
-
+[***wetware*** - the human brain]{style="color:#FF3131;"}    
+[***software*** - programs for a computer]{style="color:#FF3131;"}    
+[***data*** - factual information used as a basis for reasoning, discussion, or calculation]{style="color:#FF3131;"}    
 
 
 ::: {#hero-heading}
