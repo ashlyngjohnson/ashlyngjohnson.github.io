@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/221110_strings_tutorial/index.html",
       "/posts/221017_rlocal_projects_github/index.html",
       "/posts/220919_wrangle_and_pivot_slides/index.html",
       "/posts/ggBernie-competition-entry/index.html"

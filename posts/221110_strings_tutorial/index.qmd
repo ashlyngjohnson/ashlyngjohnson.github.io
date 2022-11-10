@@ -1,0 +1,30 @@
+---
+title: "Working with strings in R"
+author: "Ashlyn Johnson"
+date: "2022-11-10"
+categories:
+  - R
+  - Teaching
+  - strings
+image: "strings_slide.png"
+---
+
+Yesterday, I gave my last R tutorial session of the semester to a group of early graduate students in **IBS 519: Introduction to Data Analysis** at Emory University. The goal of these sessions is to introduce and review R programming concepts to facilitate success in the course but also to provide resources that could be useful for the students in their research. While this course has not dealt with a large amount of string manipulation, we felt that students may need to interact with strings in future datasets. Thus, I aimed to use this presentation as an opportunity to give a broad (and somewhat shallow) introduction to working with strings in R. Additionally, I wanted to point them to resources and introduce the concepts of regular expressions and the `stringR` package.
+
+I created the slides for this presentation with R markdown and the `xaringan`, `xaringanthemer`, and `xaringanExtra` packages. Special shout out to [Tanya Shapiro](https://github.com/tashapiro/horror-movies) who put together the dataset on horror movies that I used throughout the presentation, and the `tidytuesdayR` package which I used to download the data.
+
+Note: For the original presentation, I embedded a PDF of the `stringR` cheatsheet into the slides to show the students. The embedded PDF didn't carry over when uploading the slides here. However, you can still click on the title of the slide which links to the cheatsheet.
+
+My slides are below!
+
+```{r, echo = FALSE}
+library(xaringanExtra)
+embed_xaringan(
+  url = "Strings.html",
+  ratio = "16:9",
+  border = "2px solid currentColor",
+  max_width = NULL,
+  margin = "1em auto",
+  style = NULL
+)
+```

@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "R\n\n\nTeaching\n\n\ngithub\n\n\nprojects\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\nTeaching\n\n\ndplyr\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nApr 21, 2021\n\n\nAshlyn Johnson\n\n\n\n\n\n\nNo matching items"
+    "text": "R\n\n\nTeaching\n\n\nstrings\n\n\n\n\n\n\n\n\n\n\n\nNov 10, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\nTeaching\n\n\ngithub\n\n\nprojects\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\nTeaching\n\n\ndplyr\n\n\n\n\n\n\n\n\n\n\n\nSep 19, 2022\n\n\nAshlyn Johnson\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nApr 21, 2021\n\n\nAshlyn Johnson\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -33,6 +33,13 @@
     "title": "Introducing data management and version control in R to graduate students",
     "section": "",
     "text": "Thus, the other teaching assistants and I decided to briefly introduce the concept of installing R and R studio locally. We also thought about important data management principles that early graduate students should be aware of and decided to highlight R projects, file management, and version control. This slide deck is meant to be a high level overview of these concepts with some links to resources that are helpful for further study.\nI created the slides for this presentation with R markdown and the xaringan, xaringanthemer, and xaringanExtra packages.\nMy slides are below!"
+  },
+  {
+    "objectID": "posts/221110_strings_tutorial/index.html",
+    "href": "posts/221110_strings_tutorial/index.html",
+    "title": "Working with strings in R",
+    "section": "",
+    "text": "I created the slides for this presentation with R markdown and the xaringan, xaringanthemer, and xaringanExtra packages. Special shout out to Tanya Shapiro who put together the dataset on horror movies that I used throughout the presentation, and the tidytuesdayR package which I used to download the data.\nNote: For the original presentation, I embedded a PDF of the stringR cheatsheet into the slides to show the students. The embedded PDF didn’t carry over when uploading the slides here. However, you can still click on the title of the slide which links to the cheatsheet.\nMy slides are below!"
   },
   {
     "objectID": "posts/ggBernie-competition-entry/index.html",
